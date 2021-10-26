@@ -184,6 +184,6 @@ export const CardButton = styled.a`
     }
 
     @media screen and (max-width:452px){
-        width: none;
+        width: auto;
     }
 `;
