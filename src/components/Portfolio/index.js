@@ -31,7 +31,7 @@ const Portfolio = () =>(
             <CardOptionsNote>www.lapared.lol</CardOptionsNote>
           </CardFieldset>
           <CardFieldset>
-            <CardButton href="https://www.lapared.lol">visitar</CardButton>
+            <CardButton href="https://lapared.lol">visitar</CardButton>
           </CardFieldset>
         </CardBody>
       </CardWrapper>
