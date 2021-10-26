@@ -49,6 +49,7 @@ export const Nav = styled.div`
 
 export const Logo = styled.a`
   margin-top: 1.5rem;
+  margin-right: 1rem;
 `;
 
 export const Menu = styled.div`
