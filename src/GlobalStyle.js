@@ -103,7 +103,6 @@ span{
   }
 }
     hr{
-    border: 0;
     height: 0.1px;
     width: 100%;
     background-color: var(--white);
@@ -153,9 +152,6 @@ span{
   width: 90vmin;
   margin: auto;
   display: block;
-   @media (max-width: 768px) {
-             height: 30vmin;
-  }
 }
 .animated-title > div {
   height: 50%;

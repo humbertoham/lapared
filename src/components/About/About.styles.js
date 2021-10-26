@@ -70,7 +70,7 @@ export const Text = styled.div`
     }
 
     @media screen and (max-width: 720px){
-
+        padding: 25px 0px 0px 0px;
         width: auto;
         float: none;
 
