@@ -1,5 +1,5 @@
 import React from "react";
-import { Content, Wrapper, Link} from "./Foot.styles";
+import { Content, Wrapper} from "./Foot.styles";
 const Foot = () =>(
 
     <Wrapper>

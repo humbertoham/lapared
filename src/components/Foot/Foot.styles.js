@@ -19,7 +19,3 @@ export const Content = styled.div`
     }
 `;
 
-export const Link = styled.a`
-    color: var(--white);
-    padding: 0px 8px;
-`;
