@@ -18,7 +18,7 @@ const Header = () => {
       </Hamburger>
       <Menu isOpen={isOpen}>
         
-        <MenuLink href="#about" className="primero">a cerca de</MenuLink>
+        <MenuLink href="#about" className="primero">acerca de</MenuLink>
         <hr class="menu"/>
         <MenuLink href="#portfolio" className="segundo">portafolio</MenuLink>
         <hr class="menu"/>

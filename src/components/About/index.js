@@ -12,7 +12,7 @@ const About = () =>{
     <Wrapper id="about">
         <Content  data-aos="fade-right">
             <Text>
-                <h1>a cerca de nosotros</h1>
+                <h1>acerca de nosotros</h1>
                 <p>somos un studio de web design con pocos años de experiencia, que espera ir construyendo un portafolio, una reputación por la atención al detalle con sus clientes y que sobre todo nuestras páginas web puedan sobresalir y considerarse un buen trabajo. </p>
             
             </Text>
