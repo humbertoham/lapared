@@ -4,17 +4,14 @@ import Aos from "aos";
 import "aos/dist/aos.css" 
 const About = () =>{
     useEffect(() => {
-
         Aos.init({duration: 2000});
-
     }, []);
     return(
     <Wrapper id="about">
         <Content  data-aos="fade-right">
             <Text>
                 <h1>acerca de nosotros</h1>
-                <p>somos un studio de web design con pocos años de experiencia, que espera ir construyendo un portafolio, una reputación por la atención al detalle con sus clientes y que sobre todo nuestras páginas web puedan sobresalir y considerarse un buen trabajo. </p>
-            
+                <p>somos un studio de web design, que espera ir construyendo un portafolio y una reputación por la atención al detalle con sus clientes. nuestra misión es poder ayudar al cliente a transmitir sus ideas a una página web. </p>
             </Text>
             <Box>
             </Box>
@@ -33,13 +30,11 @@ const About = () =>{
                 <p>• nodejs</p>
                 <p>• react</p>
             </Text>
-            
-             
             </Content >
             <Content  data-aos="fade-right">
             <Text>
                 <h1>objetivos</h1>
-                <p>facilitar el acceso a las personas de poder tener su propia página web, con un diseño que sea de su agrado, y poder satisfacer las necesidades del cliente para que tenga una buena experiencia con nostros.</p>
+                <p>facilitar el acceso a las personas su propia página web, con un diseño que sea de su agrado, y poder satisfacer las necesidades del cliente para que tenga una buena experiencia con nostros.</p>
             </Text>
             <Box>
             </Box>
