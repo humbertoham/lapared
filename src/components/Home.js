@@ -5,22 +5,19 @@ import About from "./About";
 import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 import Foot from "./Foot";
+import Information from "./Information";
 const Home = () => {
-
-    return(
-        <>
-        <FirstText/>
-        <About/>
-        <Cards/>
-        <Portfolio/>
-        <Contact/>
-        <Foot/>
-        </>
-    );
-
-
-
-
+  return (
+    <>
+      <FirstText />
+      <About />
+      <Cards />
+      <Portfolio />
+      <Information />
+      <Contact />
+      <Foot />
+    </>
+  );
 };
 
 export default Home;

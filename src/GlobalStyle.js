@@ -14,6 +14,7 @@ export const GlobalStyle = createGlobalStyle`
     --fontMed: 1.2rem;
     --fontSmall: 1rem;
     font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 *{
     box-sizing: border-box;
@@ -198,13 +199,27 @@ span{
 }
 .ab{
   color: var(--green);
-  @media (max-width: 768px) {
-           font-size: 5rem;
-  }
+ 
   :hover{
     color:var(--white);
-  }
    
+  
+  }
+    @media (max-width: 768px) {
+           font-size: 5rem;
+  }
+}
+.ad{
+  color: var(--white);
+ 
+  :hover{
+    color:var(--green);
+   
+  
+  }
+    @media (max-width: 768px) {
+           font-size: 5rem;
+  }
 }
 .db{
   display: none;
