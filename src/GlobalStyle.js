@@ -196,6 +196,26 @@ span{
   transform: translate(0, -100%);
   
 }
-
-
+.ab{
+  color: var(--green);
+  @media (max-width: 768px) {
+           font-size: 5rem;
+  }
+  :hover{
+    color:var(--white);
+  }
+   
+}
+.db{
+  display: none;
+  @media (max-width: 768px) {
+            display: block;
+  }
+}
+.dp{
+  display: unset;
+  @media (max-width: 768px) {
+            display: none;
+  }
+}
 `;
