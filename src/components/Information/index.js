@@ -15,10 +15,9 @@ const Information = () => {
         <Text>
           <h1>¿por qué elegirnos?</h1>
           <p>
-            ofrecemos soluciones web, móvil y de marketing digital orientadas a
-            negocios. nuestras soluciones se traducen en ahorros en los costes
-            operativos y administrativos del negocio además del impulso de
-            ingresos.
+            ofrecemos soluciones web, y móviles orientadas a negocios. nuestras
+            soluciones se traducen en en diseños llamativos al pedido del
+            cliente, y que siempren buscan la satisfacción de este mismo.
           </p>
         </Text>
         <Box>
