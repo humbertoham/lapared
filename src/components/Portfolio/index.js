@@ -36,6 +36,7 @@ const Portfolio = () =>(
           </CardFieldset>
         </CardBody>
       </CardWrapper>
+      </div>
             <div className="container">
             <CardWrapper>
         <CardHeader>
